@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="pop">Population</string>
+    <string name="name">Nom</string>
+    <string name="france">France</string>
+    <string name="italie">Italie</string>
+    <string name="espagne">Espagne</string>
+    <string name="royaumes_unis">Royaumes Unis</string>
+    <string name="pays_bas">Pays_Bas</string>
+</resources>
